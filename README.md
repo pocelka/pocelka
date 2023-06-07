@@ -1,18 +1,57 @@
-Hello,
+<h1 align="center">Hello!</h1>
 
-My name is Peter Ocelka, and in the company where I'm employeed, I've worked mostly on data migration projects with Oracle database.
+<p align="center">
+    <b>Welcome to my page!</b>
+</p>
+    <br>
+    <i>
+        <br>
+        I'm huge fan of Oracle Application Express (APEX), PL/SQL and automation. Although I don't have any real life experience with APEX projects, I've created few applications for my personal use.
+        <br>
+        <br>
+        My current focus is on:
+        <br>
+        <ul>
+            <li>Getting better in automation and IaaC (ansible, terraform, github actions, jenkins).</li>
+            <li>Continue learning APEX through some personal projects.</li>
+        </ul>
+        <br>
+        Open to collaborating on interesting and innovative projects.
+        <br>
+    </i>
+    <br>
+</p>
 
-I'm huge fan of Oracle Application Express (APEX), PL/SQL and automation. Although I don't have any experience with APEX projects, I've created few applications as a proof of concept (PoC). Due to other priorities I did not continue with further development, however as I strongly believe that this is the technology with a great future.
+### Languages
 
-My current focus is on:
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/pocelka)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pocelka)
 
-- Getting better in automation and IaaC (ansible, terraform, github actions, jenkins).
-- Continue learning APEX through some personal projects.
+### Technologies & Frameworks
 
-In my repositories, you can find personal projects which I'm working on or, projects which I'm using to PoCs during learning process.
+[![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)](https://github.com/pocelka)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/pocelka)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/pocelka)
 
-- 💞️ I’m looking for APEX mentor.
-- 📫 You can reach me via email peter.ocelka@gmail.com
+### OS
+
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pocelka)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pocelka)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=macos)](https://github.com/pocelka)
+
+<details>
+    <p align="center">
+        <a href="https://github.com/pocelka">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pocelka&theme=discord_old_blurple" />
+        </a>
+        <a href="https://github.com/pocelka">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=pocelka&hide_border=true&card_width=338&theme=discord_old_blurple" />
+        </a>
+        <a href="https://github.com/pocelka">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pocelka&theme=discord_old_blurple" />
+        </a>
+    </p>
+</details>
 
 <!---
 pocelka/pocelka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
